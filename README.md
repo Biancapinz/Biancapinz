@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bianca!
 
-# 👋 Olá! bem vindo ao meu perfil do Github.
+## 👋 Olá! bem vindo ao meu perfil do Github.
 ## Meu nome é Bianca!
 
 
