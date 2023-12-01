@@ -1,5 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Bianca and my nickname is "Bibi"!
+## My name is Bianca!
+
+# 👋 Olá! bem vindo ao meu perfil do Github.
+## Meu nome é Bianca!
+
 
 <div>
 <a href="https://github.com/Biancapinz">
